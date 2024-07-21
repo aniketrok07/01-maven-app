@@ -1,0 +1,5 @@
+# Created at 2024-07-21T14:00:49.753
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Study\AshokITDevops\BuildTools\01-Maven-App\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
